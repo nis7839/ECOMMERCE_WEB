@@ -5,6 +5,8 @@ const cookieParser = require("cookie-parser");
 const bodyParser = require("body-parser");
 const fileUpload = require("express-fileupload");
 // const path = require("path");
+const cors = require('cors');
+
 
 const dotenv = require("dotenv");
 
@@ -15,7 +17,7 @@ if(process.env.NODE_ENV!=="PRODUCTION"){
 
     dotenv.config({path:"backend/config/config.env"});
 }
-
+app.use(cors());
 app.use(express.json());
 app.use(cookieParser());
 app.use(bodyParser.urlencoded({ extended: true }));
