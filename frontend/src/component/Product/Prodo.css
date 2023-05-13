@@ -1,0 +1,15 @@
+ .ProductDetails{
+    width: 100vw; 
+    max-width: 100%;
+   padding: 6vmax;
+
+    box-sizing: border-box;  
+}
+.CarouselImage {
+    width: 20vmax;
+
+  }  
+   .ProductDetails.CarouselImage >img{
+    height: 50px;
+  } 
+    
