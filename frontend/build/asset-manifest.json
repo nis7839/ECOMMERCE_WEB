@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5babb519.css",
+    "main.js": "/static/js/main.ecce43d5.js",
+    "static/media/Vanshika.png": "/static/media/Vanshika.53d12108dc866d1955b4.png",
+    "static/media/raghvendra.png": "/static/media/raghvendra.a115d95696f770c3d3c3.png",
+    "static/media/Nishant.png": "/static/media/Nishant.2e06cedaa0b23b626bcb.png",
+    "static/media/satish.jpg": "/static/media/satish.4cf6997950a60bb1404f.jpg",
+    "static/media/Rishab.png": "/static/media/Rishab.8c4287c8e4b953ec4242.png",
+    "static/media/cover.jfif": "/static/media/cover.e2edeab17643ab2951c0.jfif",
+    "static/media/Profile.png": "/static/media/Profile.697fdcd21f6d157b9073.png",
+    "static/media/playstore.png": "/static/media/playstore.82b4831979e0ce7c733e.png",
+    "static/media/Appstore.png": "/static/media/Appstore.d0c5839937e3c36285f6.png",
+    "index.html": "/index.html",
+    "main.5babb519.css.map": "/static/css/main.5babb519.css.map",
+    "main.ecce43d5.js.map": "/static/js/main.ecce43d5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5babb519.css",
+    "static/js/main.ecce43d5.js"
+  ]
+}
